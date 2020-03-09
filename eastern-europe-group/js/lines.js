@@ -1,7 +1,7 @@
 Highcharts.chart('hcContainer', {
     // Load Data in from Google Sheets
     data: {
-      googleSpreadsheetKey: '1ZCagkHUXUfCRqDKgXXp-RD1EYu4DO_MyzdoezJAPqlQ',
+      googleSpreadsheetKey: '1fPUmom6BCo1xQUqCYqREVJ6aaphkc4XmRTvTRMwPELg',
       googleSpreadsheetWorksheet: 1
     },
     // General Chart Options
@@ -11,10 +11,10 @@ Highcharts.chart('hcContainer', {
     },
     // Chart Title and Subtitle
     title: {
-      text: "Interactive Title"
+      text: "UN Eastern-European Regional Group"
     },
     subtitle: {
-      text: "Click and drag to zoom in"
+      text: "Confirmed COVID-19 Cases Through 3-5-20"
     },
     // Credits
     credits: {
@@ -34,7 +34,7 @@ Highcharts.chart('hcContainer', {
     // Y Axis
     yAxis: {
       title: {
-        text: "Y Axis Title"
+        text: "Number of Confirmed Cases"
       }
     },
     // Additional Plot Options
