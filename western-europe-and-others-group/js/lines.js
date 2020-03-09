@@ -34,7 +34,7 @@ Highcharts.chart('hcContainer', {
     // Y Axis
     yAxis: {
       title: {
-        text: "Y Axis Title"
+        text: "Number of Confirmed Cases"
       }
     },
     // Additional Plot Options
