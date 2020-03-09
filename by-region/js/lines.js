@@ -7,7 +7,8 @@ Highcharts.chart('hcContainer', {
     // General Chart Options
     chart: {
       zoomType: 'x',
-      type: 'line'
+      type: 'line',
+      height: 900
     },
     // Chart Title and Subtitle
     title: {
