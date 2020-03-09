@@ -11,10 +11,10 @@ Highcharts.chart('hcContainer', {
     },
     // Chart Title and Subtitle
     title: {
-      text: "Interactive Title"
+      text: "All Countries"
     },
     subtitle: {
-      text: "Click and drag to zoom in"
+      text: "All confirmed COVID-19 Cases Through 3-5-20"
     },
     // Credits
     credits: {
@@ -34,7 +34,7 @@ Highcharts.chart('hcContainer', {
     // Y Axis
     yAxis: {
       title: {
-        text: "Y Axis Title"
+        text: "Number of Confirmed Cases"
       }
     },
     // Additional Plot Options
