@@ -1,7 +1,7 @@
 Highcharts.chart('hcContainer', {
     // Load Data in from Google Sheets
     data: {
-      googleSpreadsheetKey: '1ZCagkHUXUfCRqDKgXXp-RD1EYu4DO_MyzdoezJAPqlQ',
+      googleSpreadsheetKey: '1-ypj7MZZkCS4iZKhQi7oTc-tP-vmMI24C7QkBI9rNaw',
       googleSpreadsheetWorksheet: 1
     },
     // General Chart Options
@@ -11,10 +11,10 @@ Highcharts.chart('hcContainer', {
     },
     // Chart Title and Subtitle
     title: {
-      text: "Interactive Title"
+      text: "UN Western European and Others Regional Group"
     },
     subtitle: {
-      text: "Click and drag to zoom in"
+      text: "Confirmed COVID-19 Cases Through 3-5-2020"
     },
     // Credits
     credits: {
